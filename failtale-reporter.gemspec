@@ -6,8 +6,8 @@ require 'bundler'
 require 'failtale_reporter/version'
 
 Gem::Specification.new do |s|
-  s.name        = "failtale-notifier"
-  s.version     = FailtaleNotifier::VERSION
+  s.name        = "failtale-reporter"
+  s.version     = FailtaleReporter::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Brett Weik-Ulrich"]
   s.email       = ["bweik-ulrich@iexposure.com"]
