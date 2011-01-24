@@ -6,9 +6,9 @@ Download or $ git clone git@github.com:iexposure/failtale-notifier.git
 
 Then
 
-$ cd failtail-notifier
+$ cd failtale-notifier
 
-$ gem build failtail-reporter.gemspec
+$ gem build failtale-reporter.gemspec
 
 You should see:
 
