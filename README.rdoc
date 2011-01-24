@@ -1,5 +1,7 @@
 = Failtale reporter customized for iexposure.com
 
+== install the gem
+
 Download or $ git clone git@github.com:iexposure/failtale-notifier.git 
 
 Then
@@ -17,7 +19,5 @@ WARNING:  no rubyforge_project specified
 - Version: 0.2.5
 - File: failtale-reporter-0.2.5.gem
   
-
-
-
+This will take care of the dependencies in your gemfile or environment.rb
 
