@@ -1,4 +1,4 @@
-# Failtale reporter customized for iexposure.com
+= Failtale reporter customized for iexposure.com
 
 Download or $ git clone git@github.com:iexposure/failtale-notifier.git 
 
